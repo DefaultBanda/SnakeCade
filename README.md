@@ -21,7 +21,7 @@ This project is a recreation of the classic Snake game using modern electronics.
 ## Setup Instructions
 1. **Assemble the Hardware**: Connect the ESP32 to the NeoPixel matrix and the joystick according to the circuit diagram provided in the repository.
 2. **Install Software**: Install the Arduino IDE and include the Adafruit NeoPixel library.
-3. **Upload the Game**: Open the `snake_game.ino` file with Arduino IDE, connect the ESP32 via USB, and upload the code.
+3. **Upload the Game**: Open the `ESP32Snake.ino` file with Arduino IDE, connect the ESP32 via USB, and upload the code.
 
 ## How to Play
 - Use the joystick to navigate the snake around the grid.
