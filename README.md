@@ -47,4 +47,4 @@ Contributions to this project are welcome! You can contribute in several ways:
 
 
 ## License
-This project is released under the MIT License. See the LICENSE file for more details.
+This project is released under the Creative Commons Zero v1.0 Universal License. See the LICENSE file for more details.
